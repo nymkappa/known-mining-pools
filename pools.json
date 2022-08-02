@@ -24,6 +24,10 @@
             "name" : "BTC.com",
             "link" : "https://pool.btc.com"
         },
+        "btccom" : {
+            "name" : "BTC.com",
+            "link" : "https://pool.btc.com"
+        },
         "BTCPool" : {
             "name" : "BTCPool (unidentified)",
             "link" : "https://github.com/0xB10C/known-mining-pools/issues/28"
@@ -879,6 +883,10 @@
             "link" : "https://pool.btc.com"
         },
         "1Bf9sZvBHPFGVPX71WX2njhd1NXKv5y7v5" : {
+            "name" : "BTC.com",
+            "link" : "https://pool.btc.com"
+        },
+        "36cWgjEtxQSFgbHTJDw5AB96ZX7fJk1URd" : {
             "name" : "BTC.com",
             "link" : "https://pool.btc.com"
         },
