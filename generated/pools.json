@@ -1,5 +1,13 @@
 {
   "coinbase_tags" : {
+      "ZULUPooL": {
+        "name": "Zulupool",
+        "link": "https://beta.zulupool.com/"
+      },
+      "ZU_test": {
+        "name": "Zulupool",
+        "link": "https://beta.zulupool.com/"
+      },
       "/BlockfillsPool/" : {
           "name": "BlockFills",
           "link": "https://www.blockfills.com/mining/"
@@ -610,6 +618,10 @@
       }
   },
   "payout_addresses" : {
+      "1ZULUPooLEQfkrTgynLV4uHyMgQYx71ip": {
+        "name": "Zulupool",
+        "link": "https://beta.zulupool.com/"
+      },
       "1PzVut5X6Nx7Mv4JHHKPtVM9Jr9LJ4Rbry": {
           "name": "BlockFills",
           "link": "https://www.blockfills.com/mining/"
